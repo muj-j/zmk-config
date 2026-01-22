@@ -12,7 +12,7 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
-    - name: zmk-idkeeb
+    - name: zmk-freefour
       remote: muj
       revision: main
   self:

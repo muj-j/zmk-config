@@ -14,6 +14,6 @@ manifest:
       import: app/west.yml
     - name: zmk-freefour
       remote: muj
-      revision: main
+      revision: unibody
   self:
     path: config
